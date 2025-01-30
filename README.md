@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yashar124
 - 👀 I’m interested in ... code
-- 🌱 I’m currently learning ... x86 assembly
+- 🌱 I’m currently learning ... c++
 - 💞️ I’m looking to collaborate on ... nothing
 - 📫 How to reach me ... no
 - 😄 Pronouns: ... U/S/A
